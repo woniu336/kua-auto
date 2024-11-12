@@ -35,6 +35,37 @@ sudo apt-get install jq
 
 
 
+## ## 下载文件
+
+
+
+```
+cd ~
+git clone https://github.com/woniu336/kua-auto.git
+```
+
+
+
+重命名目录:
+
+```
+mv kua-auto kua-update
+```
+
+
+
+运行
+
+```
+cd kua-update
+python3 movie_list.py
+python3 quark_auto_save.py quark_config.json
+```
+
+
+
+
+
 **运行脚本**
 
 
