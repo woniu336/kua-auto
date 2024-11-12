@@ -10,15 +10,3 @@
 *.usf
 *.ssf
 
-# 字幕相关的元数据文件
-*.info
-*.txt
-*.nfo
-
-# 其他可能与字幕相关的文件
-*.sup
-*.sup.xml
-*.ttml
-*.dfxp
-*.cap
-*.docx
